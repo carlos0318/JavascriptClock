@@ -1,2 +1,3 @@
 # JavascriptClock
 
+clock.png
